@@ -1,20 +1,20 @@
 {
-    "%i Loops" = "%i Повторы";
-    "Choose video" = "Выбрать видео";
-    "Credits" = "↓ Титры";
-    "Download" = "Скачать";
-    "Download screensavers" = "Скачать заставки";
-    "Enable tweak" = "Активировать твик";
-    "For helping me when i was stuck in developing " = "За то, что помог мне, когда я застрял в разработке ";
-    "Force clear video" = "Принудительно очистить видео";
-    "Force clear video in case you are unable to select a new one" = "Принудительно очистить видео в случае, если вы не можете выбрать новое";
-    "Giving me the tweak idea" = "Давать мне идею для твика";
-    "LPM while in screensaver" = "Режим Энергосбережения во время заставки";
-    "Only when authenticated" = "Только когда аутентифицированный";
-    "Other options" = "Другие опции";
-    "Scale to fill" = "Масштабировать чтобы заполнить";
-    "Select custom video" = "Выбрать собственное видео";
-    "Testers" = "Тестировщики";
-    "Toggle" = "Тумблер";
-    "Video loops (0 = infinite)" = "Change thisПовторы видео (0 = бесконечно)";
+    "%i Loops" = "%i Change me";
+    "Choose video" = "Change me";
+    "Credits" = "↓ Change me";
+    "Download" = "Change me";
+    "Download screensavers" = "Change me";
+    "Enable tweak" = "Change me";
+    "For helping me when i was stuck in developing " = "Change me";
+    "Force clear video" = "Change me";
+    "Force clear video in case you are unable to select a new one" = "Change me";
+    "Giving me the tweak idea" = "Change me";
+    "LPM while in screensaver" = "Change me";
+    "Only when authenticated" = "Change me";
+    "Other options" = "Change me";
+    "Scale to fill" = "Change me";
+    "Select custom video" = "Change me";
+    "Testers" = "Change me";
+    "Toggle" = "Change me";
+    "Video loops (0 = infinite)" = "Change me";
 }
