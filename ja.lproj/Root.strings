@@ -1,0 +1,20 @@
+{
+    "%i Loops" = "%i \U30eb\U30fc\U30d7";
+    "Choose video" = "\U30d3\U30c7\U30aa\U3092\U9078\U629e";
+    Credits = "\U30af\U30ec\U30b8\U30c3\U30c8";
+    Download = "\U30c0\U30a6\U30f3\U30ed\U30fc\U30c9";
+    "Download screensavers" = "\U30b9\U30af\U30ea\U30fc\U30f3\U30bb\U30fc\U30d0\U30fc\U3092\U30c0\U30a6\U30f3\U30ed\U30fc\U30c9";
+    "Enable tweak" = "tweak\U3092\U6709\U52b9\U5316";
+    "For helping me when i was stuck in developing " = "\U958b\U767a\U63f4\U52a9";
+    "Force clear video" = "\U30d3\U30c7\U30aa\U3092\U30af\U30ea\U30a2";
+    "Force clear video in case you are unable to select a new one" = "\U65b0\U3057\U3044\U30d3\U30c7\U30aa\U3092\U9078\U629e\U51fa\U6765\U306a\U3044\U5834\U5408\U306b\U30d3\U30c7\U30aa\U3092\U5f37\U5236\U30af\U30ea\U30a2\U3057\U307e\U3059\U3002";
+    "Giving me the tweak idea" = "tweak\U8003\U6848";
+    "LPM while in screensaver" = "\U30b9\U30af\U30ea\U30fc\U30f3\U30bb\U30fc\U30d0\U30fc\U4e2d\U306b\U4f4e\U96fb\U529b\U30e2\U30fc\U30c9";
+    "Only when authenticated" = "\U30ed\U30c3\U30af\U89e3\U9664\U6642\U306e\U307f\U6709\U52b9\U5316";
+    "Other options" = "\U305d\U306e\U4ed6";
+    "Scale to fill" = "\U5168\U753b\U9762";
+    "Select custom video" = "\U30ab\U30b9\U30bf\U30e0\U30d3\U30c7\U30aa\U3092\U9078\U629e";
+    Testers = "\U30c6\U30b9\U30bf\U30fc";
+    Toggle = "\U5207\U66ff";
+    "Video loops (0 = infinite)" = "\U30d3\U30c7\U30aa\U30eb\U30fc\U30d7\U6570 (0=\U7121\U9650)";
+}
