@@ -1,0 +1,20 @@
+{
+    "%i Loops" = "%i Wiederholungen";
+    "Choose video" = "Video wählen";
+    "Credits" = "↓ Credits";
+    "Download" = "Herunterladen";
+    "Download screensavers" = "Bildschirmschoner herunterladen";
+    "Enable tweak" = "Tweak aktivieren";
+    "For helping me when i was stuck in developing " = "Half mir, als ich beim Programmieren stecken blieb";
+    "Force clear video" = "Ausgewähltes Video löschen";
+    "Force clear video in case you are unable to select a new one" = "Ausgewähltes Video löschen, falls du kein neues Video auswählen kannst";
+    "Giving me the tweak idea" = "Gab mir die Idee für diesen Tweak";
+    "LPM while in screensaver" = "Batteriesparmodus während dem Bildschirmschoner";
+    "Only when authenticated" = "Nur wenn authentifiziert";
+    "Other options" = "Andere Optionen";
+    "Scale to fill" = "Skalieren um Bildschirm zu füllen";
+    "Select custom video" = "Bunutzerdefiniertes Video auswählen";
+    "Testers" = "Tester";
+    "Toggle" = "Schalter";
+    "Video loops (0 = infinite)" = "Video Wiederholungen (0 = unendlich)";
+}

@@ -1,0 +1,20 @@
+{
+    "%i Loops" = "%i V\U00f2ng";
+    "Choose video" = "Ch\U1ecdn Video";
+    Credits = "\U2193 B\U1edfi";
+    Download = "T\U1ea3i xu\U1ed1ng";
+    "Download screensavers" = "T\U1ea3i xu\U1ed1ng Screensaver";
+    "Enable tweak" = "K\U00edch ho\U1ea1t tinh ch\U1ec9nh";
+    "For helping me when i was stuck in developing " = "\U0110\U00e3 gi\U00fap t\U00f4i khi t\U00f4i b\U1ecb m\U1eafc k\U1eb9t trong vi\U1ec7c ph\U00e1t tri\U1ec3n";
+    "Force clear video" = "Bu\U1ed9c x\U00f3a video";
+    "Force clear video in case you are unable to select a new one" = "Bu\U1ed9c x\U00f3a video trong tr\U01b0\U1eddng h\U1ee3p b\U1ea1n kh\U00f4ng th\U1ec3 ch\U1ecdn video m\U1edbi";
+    "Giving me the tweak idea" = "Cho t\U00f4i \U00fd t\U01b0\U1edfng tinh ch\U1ec9nh";
+    "LPM while in screensaver" = "B\U1eadt Ti\U1ebft ki\U1ec7m pin khi k\U00edch ho\U1ea1t tinh ch\U1ec9nh";
+    "Only when authenticated" = "Ch\U1ec9 khi \U0111\U01b0\U1ee3c ch\U1ee9ng th\U1ef1c";
+    "Other options" = "L\U1ef1a ch\U1ecdn kh\U00e1c";
+    "Scale to fill" = "K\U00edch th\U01b0\U1edbc";
+    "Select custom video" = "Ch\U1ecdn video t\U00f9y ch\U1ec9nh";
+    Testers = "Ng\U01b0\U1eddi ki\U1ec3m tra";
+    Toggle = "Chuy\U1ec3n \U0111\U1ed5i";
+    "Video loops (0 = infinite)" = "V\U00f2ng l\U1eb7p video (0 = v\U00f4 h\U1ea1n)";
+}

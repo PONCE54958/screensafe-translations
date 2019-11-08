@@ -1,0 +1,20 @@
+{
+    "%i Loops" = "%i Döngü";
+    "Choose video" = "Video seç";
+    "Credits" = "↓ Katkıda bulunanlar";
+    "Download" = "İndir";
+    "Download screensavers" = "Ekran koruyucuları indir";
+    "Enable tweak" = "Eklentiyi'i etkinleştir";
+    "For helping me when i was stuck in developing " = "Geliştirmede sıkıştığımda bana yardım etmek için";
+    "Force clear video" = "Video'yu kaldırmaya zorla";
+    "Force clear video in case you are unable to select a new one" = "Yeni bir video seçemediğinde videoyu kaldırmaya zorla";
+    "Giving me the tweak idea" = "Bana tweak fikri ver";
+    "LPM while in screensaver" = "Ekran koruyucudayken düşük güç modu";
+    "Only when authenticated" = "Yalnızca doğrulandığında";
+    "Other options" = "Diğer seçenekler";
+    "Scale to fill" = "Ekranı doldurmak için ölçülendir";
+    "Select custom video" = "Özel bir video seç";
+    "Testers" = "Test edenler";
+    "Toggle" = "Geçiş yap";
+    "Video loops (0 = infinite)" = "Video döngüsü (0 = sonsuz)";
+}
